@@ -231,3 +231,11 @@ TODO
 The Active Wand has an internal battery that needs charging prior to use. There are two switches
 on the wand, one is the on-off switch, and the other selects between continuous and strobe mode. 
 Either mode should work to calibrate the system, but the lab has typically used continuous mode.
+
+## Troubleshooting
+
+### Vicon cannot find the cameras
+
+Sometimes after a Windows update or if the arena network has been changed or adjusted, the Vicon Tracker machine cannot find the cameras on the network. From experience, this maybe due to the firewall blocking traffic between the computer and the cameras. By default, the firewall only allows traffic to Vicon if the Vicon traffic is on a **private** network. Sometimes updates or network changes (for some unknown reason) cause the flight arena network to change to public or undefined. 
+
+Finding a way to set the network back to private (either through the gui or through elevated powershell) will hopefully solve these problems. 
