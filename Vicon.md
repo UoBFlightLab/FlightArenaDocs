@@ -221,10 +221,15 @@ that this is not the typical aerospace order of yaw, pitch, roll and so may requ
 
 #### Enabling the output
 
-*In the Flight Arena, the UDP stream will typically be enabled by default so this should not be
-needed.*
+~~In the Flight Arena, the UDP stream will typically be enabled by default so this should not be needed.~~
 
-TODO
+This is no longer true. By default the UDP multicast stream has been disabled. It can be reenabled through the system settings. 
+
+### Vicon SDK output
+
+A second method of getting data output is by using the VICON TCP stream along with the VICON SDK. Available in Python, CPP and other languages. 
+
+For an example [see this](https://github.com/mhl787156/ros2-vicon-receiver)
 
 ## Active Wand
 

@@ -1,0 +1,46 @@
+# Flight Arena ChangeLog
+
+## 11/11/2022
+
+Upgraded VICON system thanks to Bob and Claire from Vicon
+
+- Extra 6 Viro cameras installed 
+- All existing cameras repositioned to better cover the volume
+- Wired into an extra network switch
+
+Installed CCTV monitoring station with recording
+
+- Installed two ABUS TVIP82560 PTZ cameras 
+- Installed two ABUS TVIP42561 Fixed Wide Angle Cameras
+- Installed Abus TVVR36400 Data recorder
+- All cameras are wired into the Data Recorder
+
+Installed Projector 
+
+- Mounted on the gantry facing the wall
+- Extended VGA connection - currently plugged into the VICON machine.
+
+
+## Early 2022
+
+Replaced Desktops, we now have 
+
+- flying86
+- flying87
+- flying88
+
+Each are loaded with two default users (passwords are on the wall)
+
+- username: flying
+- username: flyingadmin
+
+
+## Pre 2018
+
+Vicon Installation with 10 cameras
+
+Desktops:
+
+- flying83 
+- flying84 
+- flying85
