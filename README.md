@@ -1,5 +1,15 @@
 # BRL Flight Arena
 
+## Access
+
+The Flight Arena may be booked via the BRL facility booking system.  See the [online calendar](https://uweacuk.sharepoint.com/sites/FET-BRLOperationsUWEUoBStaff/Lists/Room%20booking%20play%20time/Calendar.aspx) for availability and email [info@brl.ac.uk](mailto:info@brl.ac.uk) to request a booking.  While primarily designed for aerial robotics, the arena can (and will, subject to availability) accommodate various activities that require large volume and/or motion tracking.
+
+## Safety
+
+It is the user's responsibility to ensure a suitable UWE risk assessment is in place for any activity in the arena.  The BRL aerial robotics team has a generic risk assessment for small drones.  Anything else will need a fresh risk assessment.  COntact the BRL Technical Support team for assistance.
+
+## Equipment
+
 - [Vicon](Vicon.md) Information on setting up and using the Vicon system
 - [Networking](Networking.md) Information on arena network configuration
 
